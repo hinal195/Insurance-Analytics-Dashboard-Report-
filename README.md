@@ -119,12 +119,6 @@ The project follows a **Star Schema** consisting of:
 - Evaluates sales performance across organizational hierarchy.
 - Identifies business trends and regional performance.
 
----
-
-## 📷 Dashboard Preview
-
-> Add screenshots of each dashboard here.
-
 Example:
 
 ```
